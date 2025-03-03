@@ -1,2 +1,2 @@
 # Tic-tac-toe
-This is my first project in javascript . I am trying to create a simple game of tic-tac-toe. I have the following
+A simple game built in Javascript , here is the link to play the game - https://my-project-ruddy-iota.vercel.app/
